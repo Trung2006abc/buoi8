@@ -1,0 +1,15 @@
+td{
+    width: 50vw;
+    border: solid yellow;
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+}
+td:hover{
+    background-color: darkgray;
+}

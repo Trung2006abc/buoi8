@@ -1,0 +1,64 @@
+.lon{
+    background-color: rgb(75, 66, 66);
+}
+.cak{
+    font-size: xx-large;
+}
+.mup{
+    font-size: xx-large;
+}
+.demon{
+    grid-row:1/2;
+}
+.loan{
+    padding: 20px;
+    
+    border-radius: 5px;
+}
+button{
+    background-color: blueviolet;
+    padding: 20px;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: rgb(172, 100, 239);
+}
+.dam{
+    font-size: xx-large;
+    display: block;
+    color: white;
+    display: flex;
+    padding: 10px;
+}
+.phe{
+    background-color: black;
+    display: block;
+}
+.cao{
+  
+    display: block;
+   
+}
+.tr{
+    color: white;
+    font-size: xx-large;
+    align-items: center;
+    text-align: center;
+    
+}
+.conm{
+    display: flex;
+    justify-content: space-between;
+}
+.pon:hover{
+    color: bisque;
+}
+#phe:hover{
+    color: aqua;
+}
+a:hover{
+   background-color: rgb(62, 65, 65);
+}
+a{
+    text-decoration: none;
+}
